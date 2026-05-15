@@ -1,3 +1,3 @@
 # demo
-this is my first git repository
-autgor shagun sonkusare
+this is my first git repository <br>
+author shagun sonkusare
